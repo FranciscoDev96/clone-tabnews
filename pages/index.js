@@ -33,7 +33,7 @@ function Home() {
             paddingTop: "50px"
         }}
     >
-        <h1>Dona cabexinha, te amo! Se me ama de volta, dá uma risadinha!</h1>
+        <h1>Fala Vitor, amo nossa amizade, se você ama,  da uma risadinha!</h1>
 
         <button
             onClick={addHeart}
