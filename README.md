@@ -1,2 +1,3 @@
 # clone-tabnews
-Repósitório para estudo  de programação
+
+Repósitório para estudo de programação
