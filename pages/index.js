@@ -32,7 +32,7 @@ function Home() {
         paddingTop: "50px",
       }}
     >
-      <h1>Isabela, eu te amo, se você me ama de volta, dá uma risadinha!</h1>
+      <h1>Em construção. Um blog para conversarmos sobre paixões.</h1>
 
       <button
         onClick={addHeart}
@@ -41,18 +41,18 @@ function Home() {
           fontSize: "16px",
           borderRadius: "8px",
           border: "none",
-          backgroundColor: "#ff5e8e",
+          backgroundColor: rgb(51, 57, 125),
           color: "white",
           cursor: "pointer",
           marginTop: "20px",
         }}
       >
-        Dar risadinha
+        Aperte aqui
       </button>
 
       {/* Frase adicional */}
       <p style={{ fontSize: "18px", marginTop: "20px", color: "#444" }}>
-        Essa página foi feita com amor! ❤️
+        Para amantes de uma boa conversa!
       </p>
 
       {/* Renderiza os corações */}
@@ -70,7 +70,7 @@ function Home() {
             color: "red",
           }}
         >
-          ❤️
+          🏀, 🎮, 🔬
         </span>
       ))}
 
@@ -85,10 +85,6 @@ function Home() {
         }`}</style>
     </div>
   );
-}
-
-function teste() {
-  console.log("indentação errada");
 }
 
 export default Home;
