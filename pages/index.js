@@ -41,7 +41,7 @@ function Home() {
           fontSize: "16px",
           borderRadius: "8px",
           border: "none",
-          backgroundColor: rgb(51, 57, 125),
+          backgroundColor: "rgb(51, 57, 125)",
           color: "white",
           cursor: "pointer",
           marginTop: "20px",
